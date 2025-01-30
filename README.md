@@ -1,6 +1,6 @@
-# Unity-Care-Foundation
+# 🌍 Unity-Care-Foundation 🌍
 
-🌍 Unity Care Foundation 🌍
+
 A Charitable Trust Managing Donations & Fundraising
 
 🎯 Project Overview
